@@ -15,3 +15,5 @@ training model, based on image caption model(https://github.com/sgrvinod/a-PyTor
 
 3. Demo
 a web application, based on webservice
+
+![image](https://github.com/roundchuan/winnercamp_meme_generator/blob/master/sample/a.jpg)
