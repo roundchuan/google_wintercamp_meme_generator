@@ -19,4 +19,4 @@ training model, based on image caption model (https://github.com/sgrvinod/a-PyTo
 ## 3. Demo  
 a web application, based on webservice
 
-![image](https://github.com/roundchuan/winnercamp_meme_generator/blob/master/sample/d.jpg)
+![image](https://github.com/roundchuan/winnercamp_meme_generator/blob/master/sample/e.png)
