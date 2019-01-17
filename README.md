@@ -11,7 +11,7 @@ image txt (OCR.py)
 image photo without txt  
 
 2. Model Training  
-training model, based on image caption model(https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Image-Captioning)
+training model, based on image caption model (https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Image-Captioning)
 
 3. Demo  
 a web application, based on webservice
