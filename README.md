@@ -16,7 +16,7 @@ image photo without txt
 ## 2. Model Training  
 training model, based on image caption model (https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Image-Captioning)  
 
-THe trained model is provided (https://drive.google.com/open?id=1njnQwEeS2jnKTm1wErWbXMqclHVARiha)
+The trained model is provided (https://drive.google.com/open?id=1njnQwEeS2jnKTm1wErWbXMqclHVARiha)
 
 ## 3. Demo  
 a web application, based on webservice
