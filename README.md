@@ -7,7 +7,7 @@ a meme generator, mainly based on Pytorch.
 crawling source data from baidu image
 
 ## 1. Data preprcessing  
-image txt
+image txt  
 image photo without txt  
 
 ## 2. Model Training  
