@@ -7,7 +7,9 @@ a meme generator, mainly based on Pytorch.
 crawling source data from baidu image  
 
 
-![image](https://github.com/roundchuan/winnercamp_meme_generator/blob/master/sample/b.png)
+![image](https://github.com/roundchuan/winnercamp_meme_generator/blob/master/sample/b.png)  
+
+the dataset is provided (https://drive.google.com/open?id=1U0B1axGxQp5lLCzyrx8t17YJzTE1Z6Fl)
 
 ## 1. Data preprcessing  
 image txt  
