@@ -14,4 +14,4 @@ image photo without txt
 training model, based on image caption model(https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Image-Captioning)
 
 3. Demo
-a web application, based on webservice (http://34.80.24.88/upload)
+a web application, based on webservice
